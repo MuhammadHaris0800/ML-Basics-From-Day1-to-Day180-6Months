@@ -20,7 +20,7 @@
 #area =Lenght*Width
 #print("Area of rectangle is: " ,area)
 
-#***8*Take radius → calculate area of circle (use π = 3.14)*
+#****Take radius → calculate area of circle (use π = 3.14)*
 
 #radious=float(input("Enter the Radious: "))
 #area =radious*3.14159
