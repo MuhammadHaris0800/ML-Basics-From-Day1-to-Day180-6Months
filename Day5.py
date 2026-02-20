@@ -9,19 +9,19 @@ for i in range (1,6):
      print("S", end="")
     print()  
    
-#num=20
-#or i in range (num +1):
- #      if i %2 ==0:
- #      print(i)
+num=20
+for i in range (num +1):
+      if i %2 ==0:
+      print(i)
         
   
-#num=20
-#for i in range (num +1):
-#       if i %2 !=0:
-#        print(i)
+num=20
+for i in range (num +1):
+      if i %2 !=0:
+       print(i)
 
 
 
-#for i in range(10,0,-1):
-#   print(i)
+for i in range(10,0,-1):
+   print(i)
         
